@@ -1,0 +1,6 @@
+1.Create a Testing solution
+2. Add new class library project named Calculator 
+4. In github create a Testing repository 
+5. Add issue with the title "Add Calculator assembly"
+.CheckIn the solution to github 
+3. Add new xUnit project Named CalculatorTest and reference Calculator 
