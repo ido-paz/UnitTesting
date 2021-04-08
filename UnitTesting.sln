@@ -8,9 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{8240EF3E-72BA-45B1-AEF7-FD80D4607E4A}"
 	ProjectSection(SolutionItems) = preProject
 		Presentations\UnitTest_Practice.txt = Presentations\UnitTest_Practice.txt
+		Presentations\UnitTest_Terminology.txt = Presentations\UnitTest_Terminology.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{99C13FDE-FF69-4989-9CEA-07890931F2C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{99C13FDE-FF69-4989-9CEA-07890931F2C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

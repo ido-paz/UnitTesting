@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ido\\.nuget\\packages\\": {}
+    "C:\\Users\\ido_p\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ido\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Ido\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Ido\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ido\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\ido_p\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ido_p\\OneDrive\\Public\\Lectures\\.NET\\UnitTesting\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ido\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ido_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
