@@ -1,7 +1,7 @@
 1.Create a blank solution named "UnitTesting".
-2. Add new class library project named "Calculator"."
-3. In github create a repository named "UnitTesting".
-4. Add issue with the title "Add Calculator assembly".
+2. In github or threw "Visual studio" create a repository named "UnitTesting".
+3. Add issue with the title "Add Calculator assembly".
+4. In VS Add new class library project named "Calculator"."
 5. In "Git Changes" tab press enter a comment "Fix #1" and press "commit" and press push.
 to Push the changes that are solving "issue 1" to github.
 6. In github add new issue with title "Add Calculator UnitTest project".
@@ -11,8 +11,12 @@ to Push the changes that are solving "issue 1" to github.
 9. In github create issue for adding multiply function in Calculator assembly.
 10. Add the new method to Calculator assembly.
 11. Commit and push the changes to github that solves the last issue with the comment "fix #[issueNumber]".
-12.In github create issue for testing the multiply function in Calculator assembly.
-13. Add a new Test method in the CalculatorTest project and add the logic that validates the multiply functionality.
+12. In github create issue for testing the multiply function in Calculator assembly.
+13. Add a new Test method in the FunctionalityTests class in CalculatorTest project and add the logic that validates the multiply functionality.
 14. Commit and push the changes to github that solves the last issue with the comment "fix #[issueNumber]".
+--
+15... For Add,Subtract,Divide functions:
+	a. Create the function , commit and push to github and solve the related functionality issue,
+	b. Test the created function , commit and push to github and solve the related testing issue.
 
 
