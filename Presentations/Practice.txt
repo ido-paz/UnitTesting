@@ -4,7 +4,7 @@
 4. In VS Add new class library project named "Calculator"."
 5. In "Git Changes" tab press enter a comment "Fix #1" and press "commit" and press push.
 to Push the changes that are solving "issue 1" to github.
-6. In github add new issue with title "Add Calculator UnitTest project".
+6. In github add new issue with title "Add CalculatorTest UnitTest project".
 7. Add UnitTest project Named "CalculatorTest" and reference Calculator assembly.
 8. Commit and push the changes to github that solves the last issue with the comment "fix #[issueNumber]".
 --
