@@ -19,5 +19,12 @@ namespace CalculatorTest
             Assert.AreEqual(calculator.Divide(4, 2), 2);
         }
 
+        [TestMethod]
+        public void Test_Perimeter_Result()
+        {
+            Calculator.Calculator calculator = new Calculator.Calculator();
+            Assert.AreEqual(calculator.Perimeter(4, 2), 12);
+        }
+
     }
 }
